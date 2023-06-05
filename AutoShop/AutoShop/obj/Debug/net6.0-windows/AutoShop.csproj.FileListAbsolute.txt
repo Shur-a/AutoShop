@@ -1,0 +1,844 @@
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.exe
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.deps.json
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.runtimeconfig.json
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.pdb
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.AssemblyReference.cache
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\EnterPage.g.cs
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\RegistrationPage.g.cs
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop_MarkupCompile.cache
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop_MarkupCompile.lref
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\App.baml
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\EnterPage.baml
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\RegistrationPage.baml
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.g.resources
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.AssemblyInfoInputs.cache
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.AssemblyInfo.cs
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.CoreCompileInputs.cache
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.CopyComplete
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\refint\AutoShop.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.pdb
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.genruntimeconfig.cache
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\ref\AutoShop.dll
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\InfoWindow.g.cs
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\InfoWindow.baml
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\InfoPage.g.cs
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\InfoPage.baml
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\podshipnik.jpg
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\pruzhina.jpg
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\shrus.jpg
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\wheel.jpg
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\whell.png
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\MazdaPage.g.cs
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\ToytaPage.g.cs
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\MazdaPage.baml
+C:\Users\Home PC\Desktop\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\ToytaPage.baml
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.AssemblyReference.cache
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\InfoPage.g.cs
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\MazdaPage.g.cs
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\ToytaPage.g.cs
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\InfoWindow.g.cs
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\App.g.cs
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop_MarkupCompile.cache
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop_MarkupCompile.lref
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.dll
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\refint\AutoShop.dll
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.pdb
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\podshipnik.jpg
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\pruzhina.jpg
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\shrus.jpg
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\wheel.jpg
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\whell.png
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.exe
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.deps.json
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.runtimeconfig.json
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.pdb
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Humanizer.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\EnterPage.g.cs
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\RegistrationPage.g.cs
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\App.baml
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\MainWindow.baml
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\EnterPage.baml
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\RegistrationPage.baml
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\InfoPage.baml
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\MazdaPage.baml
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\ToytaPage.baml
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\InfoWindow.baml
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.g.resources
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.AssemblyInfoInputs.cache
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.AssemblyInfo.cs
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.CoreCompileInputs.cache
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.CopyComplete
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.genruntimeconfig.cache
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\ref\AutoShop.dll
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\AddWindow.g.cs
+D:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\AddWindow.baml
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\podshipnik.jpg
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\pruzhina.jpg
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\shrus.jpg
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\wheel.jpg
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\whell.png
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.exe
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.deps.json
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.runtimeconfig.json
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.pdb
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Humanizer.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\курс\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.AssemblyReference.cache
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\EnterPage.g.cs
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\RegistrationPage.g.cs
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\InfoPage.g.cs
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\MazdaPage.g.cs
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\ToytaPage.g.cs
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\AddWindow.g.cs
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\InfoWindow.g.cs
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\App.g.cs
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop_MarkupCompile.cache
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop_MarkupCompile.lref
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\App.baml
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\MainWindow.baml
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\EnterPage.baml
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\RegistrationPage.baml
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\InfoPage.baml
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\MazdaPage.baml
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\ToytaPage.baml
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\AddWindow.baml
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\InfoWindow.baml
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.g.resources
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.AssemblyInfoInputs.cache
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.AssemblyInfo.cs
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.CoreCompileInputs.cache
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.CopyComplete
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.dll
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\refint\AutoShop.dll
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.pdb
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.genruntimeconfig.cache
+E:\курс\AutoShop\AutoShop\obj\Debug\net6.0-windows\ref\AutoShop.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\podshipnik.jpg
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\pruzhina.jpg
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\shrus.jpg
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\wheel.jpg
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\whell.png
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.exe
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.deps.json
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.runtimeconfig.json
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.pdb
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.AssemblyReference.cache
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\EnterPage.g.cs
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\RegistrationPage.g.cs
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\InfoPage.g.cs
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\MazdaPage.g.cs
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\ToytaPage.g.cs
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\AddWindow.g.cs
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\InfoWindow.g.cs
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop_MarkupCompile.cache
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop_MarkupCompile.lref
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\App.baml
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\EnterPage.baml
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\RegistrationPage.baml
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\InfoPage.baml
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\MazdaPage.baml
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\ToytaPage.baml
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\AddWindow.baml
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\InfoWindow.baml
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.g.resources
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.AssemblyInfoInputs.cache
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.AssemblyInfo.cs
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.CoreCompileInputs.cache
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.CopyComplete
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\refint\AutoShop.dll
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.pdb
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.genruntimeconfig.cache
+C:\Users\328-2\Desktop\курс1\AutoShop\AutoShop\obj\Debug\net6.0-windows\ref\AutoShop.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.AssemblyReference.cache
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\EnterPage.g.cs
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\RegistrationPage.g.cs
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\InfoPage.g.cs
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\MazdaPage.g.cs
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\ToytaPage.g.cs
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\AddWindow.g.cs
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\InfoWindow.g.cs
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop_MarkupCompile.cache
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop_MarkupCompile.lref
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\refint\AutoShop.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.pdb
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\podshipnik.jpg
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\pruzhina.jpg
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\shrus.jpg
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\wheel.jpg
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\whell.png
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.exe
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.deps.json
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.runtimeconfig.json
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.pdb
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\App.baml
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\EnterPage.baml
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\RegistrationPage.baml
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\InfoPage.baml
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\MazdaPage.baml
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\ToytaPage.baml
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\AddWindow.baml
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\InfoWindow.baml
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.g.resources
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.AssemblyInfoInputs.cache
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.AssemblyInfo.cs
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.CoreCompileInputs.cache
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.CopyComplete
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.genruntimeconfig.cache
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\ref\AutoShop.dll
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\UpdatePage.g.cs
+C:\Users\328-2\Desktop\курс2\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\UpdatePage.baml
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\podshipnik.jpg
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\pruzhina.jpg
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\shrus.jpg
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\wheel.jpg
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\whell.png
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.exe
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.deps.json
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.runtimeconfig.json
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.pdb
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Humanizer.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.AssemblyReference.cache
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\EnterPage.g.cs
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\RegistrationPage.g.cs
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\InfoPage.g.cs
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\MazdaPage.g.cs
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\ToytaPage.g.cs
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\AddWindow.g.cs
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\InfoWindow.g.cs
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\UpdatePage.g.cs
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\App.g.cs
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop_MarkupCompile.cache
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop_MarkupCompile.lref
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\App.baml
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\EnterPage.baml
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\RegistrationPage.baml
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\InfoPage.baml
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\MazdaPage.baml
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\ToytaPage.baml
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\AddWindow.baml
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\InfoWindow.baml
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\UpdatePage.baml
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.g.resources
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.AssemblyInfoInputs.cache
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.AssemblyInfo.cs
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.CoreCompileInputs.cache
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.CopyComplete
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.dll
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\refint\AutoShop.dll
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.pdb
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.genruntimeconfig.cache
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\ref\AutoShop.dll
+E:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\mt-post-2.jpg
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\BasketWindow.g.cs
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\BasketWindow.baml
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\mt-post-2.jpg
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\podshipnik.jpg
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\pruzhina.jpg
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\shrus.jpg
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\wheel.jpg
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\whell.png
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.exe
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.deps.json
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.runtimeconfig.json
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.pdb
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Humanizer.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\курс16.05\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.AssemblyReference.cache
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\EnterPage.g.cs
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\RegistrationPage.g.cs
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\InfoPage.g.cs
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\MazdaPage.g.cs
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\ToytaPage.g.cs
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\AddWindow.g.cs
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\BasketWindow.g.cs
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\InfoWindow.g.cs
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\UpdatePage.g.cs
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\App.g.cs
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop_MarkupCompile.cache
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop_MarkupCompile.lref
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\App.baml
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\EnterPage.baml
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\RegistrationPage.baml
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\InfoPage.baml
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\MazdaPage.baml
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\ToytaPage.baml
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\AddWindow.baml
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\BasketWindow.baml
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\InfoWindow.baml
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\UpdatePage.baml
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.g.resources
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.AssemblyInfoInputs.cache
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.AssemblyInfo.cs
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.CoreCompileInputs.cache
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.CopyComplete
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.dll
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\refint\AutoShop.dll
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.pdb
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.genruntimeconfig.cache
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\ref\AutoShop.dll
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\MainWindow.g.cs
+D:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\MainWindow.baml
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\MainWindow.g.cs
+E:\курс16.05\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\MainWindow.baml
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\mt-post-2.jpg
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\podshipnik.jpg
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\pruzhina.jpg
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\shrus.jpg
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\wheel.jpg
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\whell.png
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.exe
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.deps.json
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.runtimeconfig.json
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.pdb
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Humanizer.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.AssemblyReference.cache
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\EnterPage.g.cs
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\RegistrationPage.g.cs
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\InfoPage.g.cs
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\MazdaPage.g.cs
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\ToytaPage.g.cs
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\AddWindow.g.cs
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\BasketWindow.g.cs
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\InfoWindow.g.cs
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\MainWindow.g.cs
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\UpdatePage.g.cs
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\App.g.cs
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop_MarkupCompile.cache
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop_MarkupCompile.lref
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\App.baml
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\EnterPage.baml
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\RegistrationPage.baml
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\InfoPage.baml
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\MazdaPage.baml
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\ToytaPage.baml
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\AddWindow.baml
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\BasketWindow.baml
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\InfoWindow.baml
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\MainWindow.baml
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\UpdatePage.baml
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.g.resources
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.AssemblyInfoInputs.cache
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.AssemblyInfo.cs
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.CoreCompileInputs.cache
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.CopyComplete
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.dll
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\refint\AutoShop.dll
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.pdb
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.genruntimeconfig.cache
+D:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\ref\AutoShop.dll
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\Amor.jpg
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\Amorforester.jpg
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\discki.jpg
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\perRychag.jpg
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\shar.jpg
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\shrus3.jpg
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\stoika.jpg
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\Stoika_stab.png
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\torDisck.jpg
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\discki2.jpg
+D:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\kolodki.jpg
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\Amor.jpg
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\Amorforester.jpg
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\discki.jpg
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\discki2.jpg
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\kolodki.jpg
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\mt-post-2.jpg
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\perRychag.jpg
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\podshipnik.jpg
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\pruzhina.jpg
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\shar.jpg
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\shrus.jpg
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\shrus3.jpg
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\stoika.jpg
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\Stoika_stab.png
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\torDisck.jpg
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\wheel.jpg
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\whell.png
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.exe
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.deps.json
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.runtimeconfig.json
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\AutoShop.pdb
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Humanizer.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.AssemblyReference.cache
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\EnterPage.g.cs
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\RegistrationPage.g.cs
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\InfoPage.g.cs
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\MazdaPage.g.cs
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\ToytaPage.g.cs
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\AddWindow.g.cs
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\BasketWindow.g.cs
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\InfoWindow.g.cs
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\MainWindow.g.cs
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\UpdatePage.g.cs
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\App.g.cs
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop_MarkupCompile.cache
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop_MarkupCompile.lref
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\App.baml
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\EnterPage.baml
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Registration\RegistrationPage.baml
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\InfoPage.baml
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\MazdaPage.baml
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Sheets\ToytaPage.baml
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\AddWindow.baml
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\BasketWindow.baml
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\InfoWindow.baml
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\MainWindow.baml
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\Windows\UpdatePage.baml
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.g.resources
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.AssemblyInfoInputs.cache
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.AssemblyInfo.cs
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.CoreCompileInputs.cache
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.csproj.CopyComplete
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.dll
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\refint\AutoShop.dll
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.pdb
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\AutoShop.genruntimeconfig.cache
+E:\финальный проект\AutoShop\AutoShop\obj\Debug\net6.0-windows\ref\AutoShop.dll
+E:\финальный проект\AutoShop\AutoShop\bin\Debug\net6.0-windows\image\amorcx6.jpg
